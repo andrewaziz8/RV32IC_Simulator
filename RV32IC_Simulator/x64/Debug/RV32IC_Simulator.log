@@ -1,0 +1,40 @@
+﻿  RV32IC_Simulator.cpp
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(208,15): warning C4101: 'funct3_c': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(207,45): warning C4101: 'lui_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(207,35): warning C4101: 'lui_imm3': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(588,37): warning C4101: 'funct7': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(743,32): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(699,15): warning C4101: 'address': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(698,22): warning C4101: 'S_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(698,29): warning C4101: 'B_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(698,43): warning C4101: 'J_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(698,36): warning C4101: 'U_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1111,15): warning C4101: 'address': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1110,22): warning C4101: 'S_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1110,15): warning C4101: 'I_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1109,45): warning C4101: 'opcode': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1110,29): warning C4101: 'B_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1110,43): warning C4101: 'J_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1110,36): warning C4101: 'U_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1294,15): warning C4101: 'address': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1293,6): warning C4101: 'I_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1292,37): warning C4101: 'funct7': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1293,20): warning C4101: 'B_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1293,34): warning C4101: 'J_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1293,27): warning C4101: 'U_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1477,40): warning C4554: '<<': check operator precedence for possible error; use parentheses to clarify precedence
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1458,15): warning C4101: 'address': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1457,22): warning C4101: 'S_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1457,15): warning C4101: 'I_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1456,37): warning C4101: 'funct7': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1457,29): warning C4101: 'B_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1457,43): warning C4101: 'J_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1655,15): warning C4101: 'address': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1654,22): warning C4101: 'S_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1654,29): warning C4101: 'B_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1654,43): warning C4101: 'J_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1654,36): warning C4101: 'U_imm': unreferenced local variable
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1717,14): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1732,13): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+D:\Git Hub\RV32IC_Simulator\RV32IC_Simulator\RV32IC_Simulator.cpp(1752,11): warning C4018: '>': signed/unsigned mismatch
+  RV32IC_Simulator.vcxproj -> D:\Git Hub\RV32IC_Simulator\x64\Debug\RV32IC_Simulator.exe
